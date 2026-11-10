@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /source/
+Disallow: /.impeccable/
+Disallow: /.taste-skill/
+
+Sitemap: https://poltinkin.workshop/sitemap.xml
